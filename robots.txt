@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shujaatullah321-dev.github.io/fitnex-athletic-club/sitemap.xml
